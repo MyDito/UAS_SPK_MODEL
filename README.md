@@ -26,7 +26,7 @@ run:
 
 run this query in your db client
 
-INSERT INTO `hitung_smartphone` (`id`, `brand`, `ram_gb`, `storage_gb`, `processor`, `battery`, `harga`) VALUES
+## INSERT INTO `hitung_smartphone` (`id`, `brand`, `ram_gb`, `storage_gb`, `processor`, `battery`, `harga`) VALUES 
 (1, 'Samsung Galaxy A01', '2', '16', 'Qualcomm Snapdragon 439', '3000', '1499000'),
 (2, 'Samsung Galaxy M01', '3', '32', 'Qualcomm Snapdragon 439', '4000', '1999000'),
 (3, 'Xiaomi Redmi 9C', '3', '64', 'Mediatek Helio G35', '5000', '1899000'),
