@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"smartphone"},
+{"type":"table","name":"hitung_smartphone","database":"smartphone","data":
+[
+{"id":"1","brand":"Samsung Galaxy A01","ram_gb":"2","storage_gb":"16","processor":"Qualcomm Snapdragon 439","battery":"3000","harga":"1499000"},
+{"id":"2","brand":"Samsung Galaxy M01","ram_gb":"3","storage_gb":"32","processor":"Qualcomm Snapdragon 439","battery":"4000","harga":"1999000"},
+{"id":"3","brand":"Xiaomi Redmi 9C","ram_gb":"3","storage_gb":"64","processor":"Mediatek Helio G35","battery":"5000","harga":"1899000"},
+{"id":"4","brand":"Xiaomi Redmi 9","ram_gb":"3","storage_gb":"32","processor":"Mediatek Helio G80","battery":"5020","harga":"1799000"},
+{"id":"5","brand":"Realme C11","ram_gb":"2","storage_gb":"32","processor":"Mediatek Helio G35","battery":"5000","harga":"1499000"},
+{"id":"6","brand":"Realme C21","ram_gb":"3","storage_gb":"32","processor":"Mediatek Helio G35","battery":"5000","harga":"1699000"},
+{"id":"7","brand":"Oppo A15","ram_gb":"3","storage_gb":"32","processor":"Mediatek Helio P35","battery":"4230","harga":"1699000"},
+{"id":"8","brand":"Oppo A53","ram_gb":"4","storage_gb":"64","processor":"Qualcomm Snapdragon 460","battery":"5000","harga":"2299000"},
+{"id":"9","brand":"Vivo Y12s","ram_gb":"3","storage_gb":"32","processor":"Mediatek Helio P35","battery":"5000","harga":"1699000"},
+{"id":"10","brand":"Vivo Y20","ram_gb":"4","storage_gb":"64","processor":"Qualcomm Snapdragon 460","battery":"5000","harga":"2099000"}
+]
+}
+]
