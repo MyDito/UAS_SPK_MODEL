@@ -1,4 +1,4 @@
-# spk_model
+# SPK MODEL BY ARIF CAHYA DITO_201011401744_07TPLP013
 
 ## Virtualenv
 
@@ -49,3 +49,5 @@ INSERT INTO `hitung_smartphone` (`id`, `brand`, `ram_gb`, `storage_gb`, `process
 lalu implementasikan di data kalian masing-masing
 
 ## Output SAW dan WP
+![image](https://github.com/MyDito/UAS_SPK_MODEL/assets/112084539/3924a413-62d7-46c9-8bba-1f212a82f932)
+
